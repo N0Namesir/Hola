@@ -1,1 +1,1 @@
-<?php echo "Hola desde alumno23 🎉"; ?>
+<?php echo 'test 2'; ?>
